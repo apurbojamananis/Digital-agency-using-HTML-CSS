@@ -104,3 +104,38 @@
 .btn2 {
   color: rgb(0, 0, 0);
 }
+
+/* ===================== */
+/* SERVICES*/
+/* ===================== */
+.service {
+  background-color: #080808;
+  width: 100%;
+}
+
+.services-description {
+  max-width: 1920px;
+  display: flex;
+  background-color: antiquewhite;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.service-content {
+  margin-top: 200px;
+  margin-left: 100px;
+  width: 50%;
+  background-color: aqua;
+  padding: 50px;
+}
+
+.service-images {
+  margin-top: 200px;
+  width: 50%;
+  background-color: blue;
+}
+
+.service-btn {
+  color: #080808;
+  border-radius: 30px;
+}
